@@ -1,25 +1,26 @@
-## Aplikasi Tabungan "Darimu" ##
-_Wujudkan Impianmu_
- 
- ------
-## Anggota Kelompok ##
-➤ Cherrie Gracila Amanda (11200910000051)  
-➤ Ammar Sufyan (11200910000054)  
-➤ Riandi Nandaputra (11200910000062)  
+## "Darimu" Savings Application ##
+_Achieve Your Dreams_
 
-## Alat dan Pengujian ##  
-• Visual Studio 2015 Enterprise  
-• SQL Server Enterprise 2014  
-• Telah diuji di Windows 10 Pro  
-• Github  
-• Figma  
+------
 
-## Font yang Dibutuhkan ##   
-• Cabin  
-• Montserrat  
-• Klavika  
+## Group Members ##
+- Cherrie Gracila Amanda (11200910000051)  
+- Ammar Sufyan (11200910000054)  
+- Riandi Nandaputra (11200910000062)  
 
-## Rincian Aplikasi ##  
-• _Front end_ dan _back end_ menggunakan c# .NET  
-• Sistem manajemen basis data relasional untuk menyimpan data menggunakan SQL Server  
-• Buka dan ubah isi ClassKoneksi.cs pada ClassFolder dan sesuaikan nama sql server, username, serta password kalian
+## Tools and Testing ##  
+- Visual Studio 2015 Enterprise  
+- SQL Server Enterprise 2014  
+- Tested on Windows 10 Pro  
+- Github  
+- Figma  
+
+## Required Fonts ##   
+- Cabin  
+- Montserrat  
+- Klavika  
+
+## Application Details ##  
+- _Front end_ and _back end_ developed using C# .NET  
+- Relational database management system used to store data is SQL Server  
+- Open and modify the contents of ClassKoneksi.cs in the ClassFolder and adjust the SQL server name, username, and password accordingly
